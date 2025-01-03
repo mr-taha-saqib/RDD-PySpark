@@ -49,7 +49,7 @@ Perform a left outer join on `rdd1` and `rdd2` using both `emp_id` and `dept_id`
 ---
 
 ## Prerequisites
-- Python 3.x
+- Python 3
 - PySpark installed and configured
 - Basic understanding of PySpark RDDs and join operations
 
